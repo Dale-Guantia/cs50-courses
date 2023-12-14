@@ -1,0 +1,8 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "algorithm": "c",
+        "random": "c",
+        "ctype.h": "c"
+    }
+}
